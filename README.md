@@ -21,12 +21,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/VeroniSky?tab=repositories" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Siga%20para%20receber%20novas%20atualiza%C3%A7%C3%B5es;Confira%20meus%20repositórios%20em%20Engenharia%20e%20Código&font=Bold%20Code&center=true&color=30F050&pause=2000">
-  </a>
-</p>
-
 <div align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
 </div>
