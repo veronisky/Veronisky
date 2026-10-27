@@ -6,7 +6,20 @@
   </p>
 </div>
 
+<!-- Gatinho Animado -->
+<p align="center">
+    <a href="https://github.com/VeroniSky" target="_blank">
+        <img src="https://github.com/oraclebrain/oraclebrain/blob/main/wth-smile.gif?raw=true" width="120" height="120" alt="Gatinho animado">
+    </a>
+</p>
+
 <br/>
+
+<p align="center">
+  <a href="https://github.com/VeroniSky?tab=repositories" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Siga%20para%20receber%20novas%20atualiza%C3%A7%C3%B5es;Confira%20meus%20repositórios%20em%20Engenharia%20e%20Código&font=Bold%20Code&center=true&color=30F050&pause=2000">
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/VeroniSky?tab=repositories" target="_blank">
