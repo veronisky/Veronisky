@@ -1,4 +1,4 @@
-<h2 align="center"> <i> Olá! Que bom ver você, sou [Nome da Estudante].</i> </h2>
+<h2 align="center"> <i> Olá! Que bom ver você, sou a Veronica lima.</i> </h2>
 
 <div align="center" width="50">
 
@@ -8,18 +8,6 @@
 </div>
 
 <br/>
-<p>
-  <a href="[Link do Portfólio]" target="_blank">
-    <img src="https://img.shields.io/badge/Meu%20Portfólio-003580?style=flat-square&logo=linkfire&logoColor=white" style="height:34px; object-fit:contain;"/>
-  </a>
-  <a href="[Link do CV]" target="_blank">  
-    <img src="https://img.shields.io/badge/Meu%20CV%20(PT)-005520?style=flat-square&logo=googledrive&logoColor=white" style="height:34px; object-fit:contain;"/>  
-  </a>
-  <a href="https://buymeacoffee.com/[seu-usuario]" target="_blank"> 
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=000000" style="height:34px; object-fit:contain;"/> 
-  </a>
-</p>
-
   <p align="center">
     <a href="https://github.com/[seu-usuario]?tab=repositories" target="_blank">
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Siga%20para%20receber%20novas%20atualiza%C3%A7%C3%B5es;Confira%20meus%20repositórios%20em%20Engenharia%20e%20Código&font=Bold%20Code&center=true&color=30F050&pause=2000">
@@ -104,7 +92,7 @@
 <h3 align="center"> Você também pode me encontrar aqui:</h3> 
 <p align="center" style="white-space: nowrap;"> 
   <a href="[Seu Link LinkedIn]"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR65EIAfPoKybFVtUZVzBQeJw-oKlkOsFKO0Q&s" width="40"/></a> 
-  <a href="[Seu Link GitHub]"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40"/></a> 
+  <a href="[https://github.com/VeroniSky]"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40"/></a> 
 </p>
   
 ---
