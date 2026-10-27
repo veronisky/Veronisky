@@ -1,4 +1,4 @@
-<h2 align="center"> <i> Olá! Que bom ver você, sou a Verônica Lima. 🚀</i> </h2>
+<h2 align="center"> <i> Olá! Que bom ver você, sou a Veronica Lima. 🚀</i> </h2>
 
 <div align="center">
   <p align="center">
