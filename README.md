@@ -100,8 +100,8 @@
 <h3 align="center">Você também pode me encontrar aqui:</h3> 
 
 <p align="center" style="white-space: nowrap;"> 
-  <a href="[Seu Link LinkedIn]"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR65EIAfPoKybFVtUZVzBQeJw-oKlkOsFKO0Q&s" width="40" title="LinkedIn"/></a> 
-  <a href="https://github.com/VeroniSky"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" title="GitHub"/></a> 
+  <a href="[in/veronica-limazz]"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR65EIAfPoKybFVtUZVzBQeJw-oKlkOsFKO0Q&s" width="40" title="LinkedIn"/></a> 
+  <a href="[https://github.com/VeroniSky]"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" title="GitHub"/></a> 
 </p>
 
 ---
