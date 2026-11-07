@@ -106,4 +106,4 @@
 
 ---
 
-⭐️ *Obrigado por visitar meu perfil! Não se esqueça de conferir meus projetos.*
+⭐️ *Obrigada por visitar meu perfil! Não se esqueça de conferir meus projetos.*
